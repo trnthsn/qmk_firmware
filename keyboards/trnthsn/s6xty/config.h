@@ -19,3 +19,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define WS2812_SPI_DRIVER SPID2
 #define WS2812_SPI_SCK_PIN B13
+#define VIA_INSECURE

@@ -21,3 +21,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define WS2812_SPI_MOSI_PAL_MODE 0
 #define WS2812_SPI_SCK_PAL_MODE 0
 #define WS2812_SPI_SCK_PIN B13
+#define VIA_INSECURE

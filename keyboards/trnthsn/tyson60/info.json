@@ -11,11 +11,11 @@
         "rgblight": true
     },
     "indicators": {
-        "caps_lock": "B4"
+        "caps_lock": "B0"
     },
     "matrix_pins": {
-        "cols": ["A10", "A9", "A8", "B14", "B12", "B10", "B1", "B0", "A15", "B5", "C15", "C14", "C13", "B9"],
-        "rows": ["B8", "B7", "B6", "B11", "A6"]
+        "cols": ["A10", "A9", "A8", "B14", "B12", "A6", "B9", "B8", "B7", "B6", "B5", "B4", "B3", "A15"],
+        "rows": ["C13", "C14", "C15", "A1", "B1"]
     },
     "rgblight": {
         "animations": {
