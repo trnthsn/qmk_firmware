@@ -22,8 +22,8 @@
     },
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x2025",
-        "vid": "0xDE17"
+        "pid": "0x2026",
+        "vid": "0x5453"
     },
     "layout_aliases": {
         "LAYOUT_all": "LAYOUT"
